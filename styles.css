@@ -55,7 +55,7 @@
 		flex-direction: column;
 		border-radius: 10px;
 		border-top: 3px solid #5BC9C8;
-		height: 25vh;
+		min-height: 230px;
 		justify-content: space-around;
 		padding-left: 20px;
 		padding-right: 20px;
@@ -75,7 +75,7 @@
 		flex-direction: column;
 		border-radius: 10px;
 		border-top: 3px solid #EC5355;
-		height: 25vh;
+		min-height: 230px;
 		justify-content: space-around;
 		padding-left: 20px;
 		padding-right: 20px;
@@ -90,7 +90,7 @@
 		flex-direction: column;
 		border-radius: 10px;
 		border-top: 3px solid #FCAE4A;
-		height: 25vh;
+		min-height: 230px;
 		justify-content: space-around;
 		padding-left: 20px;
 		padding-right: 20px;
@@ -105,7 +105,7 @@
 		flex-direction: column;
 		border-radius: 10px;
 		border-top: 3px solid #529EF2;
-		height: 25vh;
+		min-height: 230px;
 		justify-content: space-around;
 		padding-left: 20px;
 		padding-right: 20px;
@@ -185,7 +185,7 @@
 		flex-direction: column;
 		border-radius: 10px;
 		border-top: 3px solid #5BC9C8;
-		height: 32vh;
+		min-height: 230px;
 		justify-content: space-around;
 		padding-left: 20px;
 		padding-right: 20px;
@@ -205,7 +205,7 @@
 		flex-direction: column;
 		border-radius: 10px;
 		border-top: 3px solid #EC5355;
-		height: 32vh;
+		min-height: 230px;
 		justify-content: space-around;
 		padding-left: 20px;
 		padding-right: 20px;
@@ -220,7 +220,7 @@
 		flex-direction: column;
 		border-radius: 10px;
 		border-top: 3px solid #FCAE4A;
-		height: 32vh;
+		min-height: 230px;
 		justify-content: space-around;
 		padding-left: 20px;
 		padding-right: 20px;
@@ -235,7 +235,7 @@
 		flex-direction: column;
 		border-radius: 10px;
 		border-top: 3px solid #529EF2;
-		height: 32vh;
+		min-height: 230px;
 		justify-content: space-around;
 		padding-left: 20px;
 		padding-right: 20px;
